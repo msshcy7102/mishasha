@@ -3,7 +3,7 @@ const func: () => void => console.log('hello world');
 interface IModel{
     name:string;
     age:19;
-    sex:boy;
+    sex:string;
 }
 
 const str:string='hello world';
