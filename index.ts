@@ -1,4 +1,4 @@
-const func: () => void => console.log('hello world');
+const func: () => void = () => console.log('hello world');
 
 interface IModel{
     name:string;
