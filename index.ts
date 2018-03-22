@@ -1,2 +1,11 @@
 const func: () => void => console.log('hello world');
-let x=111;
+
+interface IModel{
+    name:string;
+    age:19;
+    sex:boy;
+}
+
+const str:string='hello world';
+const num:number=120;
+const bool:boolean =false;
